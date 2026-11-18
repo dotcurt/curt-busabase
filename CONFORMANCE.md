@@ -22,4 +22,4 @@ announcement record (see
 [demos/real-announcement/](demos/real-announcement/)).
 
 Vectors are never modified by the run; claims are reproducible from
-[dot_curt/conformance/vectors](https://github.com/JordanNewell/dot_curt/tree/main/conformance/vectors).
+[dot_curt/conformance/vectors](https://github.com/dotcurt/dot_curt/tree/main/conformance/vectors).
