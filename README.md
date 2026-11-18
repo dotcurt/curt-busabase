@@ -1,7 +1,7 @@
 # curt-busabase
 
 Convert [Busabase](https://busabase.com) record review trails into
-[`.curt`](https://github.com/JordanNewell/dot_curt) single-file conversation
+[`.curt`](https://github.com/dotcurt/dot_curt) single-file conversation
 format. Built on [`curt-format`](https://www.npmjs.com/package/curt-format)
 (reference implementation, v1 core). Part of the `curt-*` converter family
 (`curt-convert` for Claude Code, `curt-openclaw` for OpenClaw, `curt-hermes`
@@ -67,7 +67,7 @@ unrecognized fields are skipped and counted in the run summary, never fatal.
 ## Contributing
 
 Bug reports and pull requests welcome in
-[Issues](https://github.com/JordanNewell/curt-busabase/issues). For real-space
+[Issues](https://github.com/dotcurt/curt-busabase/issues). For real-space
 trails that convert badly, attach the JSON slice (redact anything sensitive)
 — tolerant readers improve by what they fail on. Security reports: see
 [SECURITY.md](SECURITY.md).
